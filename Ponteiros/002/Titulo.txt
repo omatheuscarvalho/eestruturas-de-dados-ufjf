@@ -1,0 +1,7 @@
+Nome: Maior Menor Ponteiros
+
+Nível de dificuldade: Avançado
+
+Descrição: Implemente uma função maiorMenorPonteiros que recebe um vetor de inteiros e seu tamanho, e dois ponteiros para inteiros pmaior e pmenor. A função deve atualizar os valores apontados por pmaior e pmenor com o maior e o menor valor do vetor, respectivamente. A função deve ser implementada sem usar operações de indexação de vetor []. Se o vetor tiver tamanho zero, a função não deve fazer nada.
+
+Protótipo: void maiorMenorPonteiros(int *vet, int n, int *pmaior, int *pmenor);

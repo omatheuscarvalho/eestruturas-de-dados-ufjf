@@ -1,0 +1,3 @@
+Questão: Swap de Ponteiros
+Descrição:
+Escreva uma função swapPonteiros que recebe dois ponteiros do tipo int e troca o valor apontado por cada um deles. Ou seja, se o primeiro ponteiro aponta para o valor a e o segundo ponteiro aponta para o valor b, após a execução da função, o primeiro ponteiro deve apontar para o valor b e o segundo ponteiro deve apontar para o valor a.
